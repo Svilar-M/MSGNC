@@ -1,0 +1,17 @@
+[
+	{
+		"itemClass":"apps col-xs-6",
+		"image_src": "images/app-work.png",
+		"title": "Our app work"
+	},
+	{
+		"itemClass": "web col-xs-6",
+		"image_src": "images/web-work.png",
+		"title": "Our web work"
+	},
+	{
+		"itemClass": "icons col-xs-6",
+		"image_src": "images/icon-work.png",
+		"title": "Our icon work"	
+	}
+]
